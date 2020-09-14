@@ -14,12 +14,12 @@ Linux (preferable Ubuntu LTS)
 # Installation
 The program requires the following dependencies :
 
-* Anaconda latest version \
-* Jupyter lab \
-* Python 3.5 \
-* Tensorflow (v1.0) \
-* Numpy \
-* NLTK (natural language toolkit for tokenized the sentences) \
+* Anaconda latest version 
+* Jupyter lab 
+* Python 3.5 
+* Tensorflow (v1.0) 
+* Numpy 
+* NLTK (natural language toolkit for tokenized the sentences) 
 
 
 To train the model run the python file in jupyter lab.
